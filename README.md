@@ -70,13 +70,12 @@ Identification des chantiers les plus rentables et ceux en dépassement budgéta
 
 Mise en évidence des ressources sous‑utilisées ou sur‑sollicitées
 
-Tableau de bord interactif facilitant la prise de décision pour les responsables de projet [Voir le projet](#)
+Tableau de bord interactif facilitant la prise de décision pour les responsables de projet. [Voir le projet](https://github.com/bourgeoistessie/Pilotage_BTP-dashboard)
 
 ---
 
 ### 4. Projet SQL / Big Data *(à venir)*
 <!-- À COMPLÉTER : ajoutez ici un projet issu du Master MEDAS (requêtes SQL, pipeline de données, machine learning…) -->
- [Voir le projet](#)
 
 ---
 
