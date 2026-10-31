@@ -47,34 +47,8 @@ Ce qui me distingue :
 
 ## Projets
 
-### 1. Perception de la réutilisation des eaux usées traitées en Occitanie
-**Contexte :** stage de chargée d'études environnementales au laboratoire de recherche **LEREPS** (Toulouse), mars – sept. 2025.
 
-**Problématique :** Quels sont les déterminants de la perception des habitants face à la réutilisation des eaux usées traitées ?
-
-**Ce que j'ai fait :**
-- Conçu et diffusé un **questionnaire** (300 réponses) et rédigé **15 guides d'entretiens** semi-directifs
-- Nettoyé et analysé un jeu de **300 observations** sous Excel et SPSS AMOS
-- Identifié **10 profils types de perceptions** par **clustering**
-- **Présenté les résultats** aux parties prenantes du projet
-
-**Outils :** Excel · SPSS AMOS · clustering · analyse qualitative
- [Voir le projet](#) <!-- À COMPLÉTER : lien vers le repo / rapport / poster -->
-
----
-
-### 2. Analyse des attitudes sociales – General Social Survey (GSS)
-**Objectif :** explorer les attitudes sociales à partir des données de la célèbre enquête américaine GSS.
-
-**Approche :** <!-- À COMPLÉTER : ex. nettoyage des données, analyse exploratoire, régression, visualisations… -->
-
-**Outils :** <!-- À COMPLÉTER : Python / R / Stata / SPSS -->
-**Résultats clés :** <!-- À COMPLÉTER : 1 à 2 enseignements marquants -->
- [Voir le projet](#) <!-- À COMPLÉTER : lien vers le repo / notebook -->
-
----
-
-### 3. Construction d’un tableau de bord de pilotage de l’activité d’une entreprise de BTP
+### 1. Construction d’un tableau de bord de pilotage de l’activité d’une entreprise de BTP
 **Objectif :** Mettre en place un tableau de bord de pilotage permettant de suivre l’activité d’une entreprise de BTP : suivi des chantiers, coûts, délais, ressources et indicateurs de performance.
 
 **Approche :** Importation et préparation des données (Power Query)
