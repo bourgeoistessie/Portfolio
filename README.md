@@ -74,9 +74,12 @@ Tableau de bord interactif facilitant la prise de décision pour les responsable
 
 ---
 
-### 4. Projet SQL / Big Data *(à venir)*
-<!-- À COMPLÉTER : ajoutez ici un projet issu du Master MEDAS (requêtes SQL, pipeline de données, machine learning…) -->
+### 4. Analyse et segmentation des clients d'une boutique en ligne *(à venir)*
 
+Nettoyage et préparation des données sous Excel et Power BI.
+Analyse des comportements d'achat et segmentation des clients.
+Création d'indicateurs et de tableaux de bord interactifs.
+Formulation de recommandations marketing basées sur les données.
 ---
 
 ## Formation
