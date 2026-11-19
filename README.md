@@ -49,6 +49,7 @@ Ce qui me distingue :
 
 
 ### 1. Construction d’un tableau de bord de pilotage de l’activité d’une entreprise de BTP
+
 **Objectif :** Mettre en place un tableau de bord de pilotage permettant de suivre l’activité d’une entreprise de BTP : suivi des chantiers, coûts, délais, ressources et indicateurs de performance.
 
 **Approche :** Importation et préparation des données (Power Query)
@@ -74,12 +75,10 @@ Tableau de bord interactif facilitant la prise de décision pour les responsable
 
 ---
 
-### 4. Analyse et segmentation des clients d'une boutique en ligne *(à venir)*
+### 2. Analyse et segmentation des clients d'une boutique en ligne 
 
-Nettoyage et préparation des données sous Excel et Power BI.
-Analyse des comportements d'achat et segmentation des clients.
-Création d'indicateurs et de tableaux de bord interactifs.
-Formulation de recommandations marketing basées sur les données.
+**Objectif :** Analyser les comportements d'achat des clients à partir de données transactionnelles afin de segmenter la clientèle, d'identifier les profils à forte valeur et de proposer des recommandations marketing appuyées par un tableau de bord Power BI.
+
 ---
 
 ## Formation
