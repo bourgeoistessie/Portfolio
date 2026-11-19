@@ -91,7 +91,7 @@ Tableau de bord interactif facilitant la prise de décision pour les responsable
 ## Certifications
 
 - **Python for Data Analysis : Pandas & NumPy** – Coursera, 2026
-- **IBM Data Analyst Professional Certificate** – Coursera, 2026 *(en cours)*
+- **Power BI Data Analyst Associate (PL-300)** – Microsoft, 2026 *(en cours)*
 
 ## Langues
 
